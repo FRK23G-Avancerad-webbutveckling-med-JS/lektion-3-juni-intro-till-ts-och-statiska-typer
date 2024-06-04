@@ -1,1 +1,5 @@
-# lektion-3-juni-intro-till-ts-och-statiska-typer
+# Lektion 4 juni: Intro till TS och statiska typer
+
+## Övningar
+
+Split the nota: https://github.com/zocom-christoffer-wallenberg/split-the-nota
